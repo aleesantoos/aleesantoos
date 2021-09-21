@@ -1,4 +1,6 @@
-### HI, I'M ALE! 👋
+###HI, I'M ALE! 👋
+
+[linkedin](https://www.linkedin.com/in/aleesantoos/)
 
 <!--
 **aleesantoos/aleesantoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
