@@ -1,6 +1,10 @@
-### HI, I'M ALE! 👋
+<h2 align = "center">
+   HI, I'M ALE! 👋
+</h2>
 
-[linkedin](https://www.linkedin.com/in/aleesantoos/)
+<p align = "center">
+    [linkedin](https://www.linkedin.com/in/aleesantoos/)
+</p>
 
 <!--
 **aleesantoos/aleesantoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
