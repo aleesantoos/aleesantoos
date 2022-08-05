@@ -7,7 +7,7 @@
 </p>
 
 <p align = "center">
-   <img src = "https://tenor.com/view/budding-pop-cute-adorable-blush-leaf-gif-15514789">
+   <img src = "https://user-images.githubusercontent.com/69517158/134217141-a7950a2e-68b6-4523-9b75-be72de6dbd57.gif">
 </p>
 
 
